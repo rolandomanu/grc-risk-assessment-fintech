@@ -1,3 +1,7 @@
+## 📄 Full Report
+👉 [Download Full GRC Report](docs/GRC_Report.pdf)
+
+
 # 🔐 GRC Risk Assessment – Fintech Environment
 
 ## 📌 Overview
@@ -73,6 +77,3 @@ GRC Analyst (Project Experience)
 ## 📂 Project Files
 See the /docs folder for full documentation.
 
-## 📄 Full Report
-Download the full GRC assessment report here:  
-[View PDF](docs/GRC_Report.pdf)
