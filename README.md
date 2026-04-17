@@ -65,6 +65,8 @@ This project presents a full Governance, Risk, and Compliance (GRC) assessment f
 - Gap Analysis
 - Security Governance
 - NIST Cybersecurity Framework alignment
+- Risk Prioritization
+- Control Effectiveness Evaluation
 
 ## 📈 Outcome
 This project demonstrates practical GRC experience aligned with real-world enterprise environments and industry best practices.
