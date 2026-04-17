@@ -1,6 +1,8 @@
 ## 📄 Full Report
 👉 [Download Full GRC Report](docs/GRC_Report.pdf)
 
+## 📂 Project Files
+See the /docs folder for full documentation.
 
 # 🔐 GRC Risk Assessment – Fintech Environment
 
@@ -73,7 +75,3 @@ This assessment identifies critical gaps that could lead to data breaches, regul
 ## 🔗 Author
 Rolando Huayamave  
 GRC Analyst (Project Experience)
-
-## 📂 Project Files
-See the /docs folder for full documentation.
-
