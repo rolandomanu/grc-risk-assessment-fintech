@@ -1,48 +1,71 @@
-# 🔐 GRC Risk Assessment – Fintech Company
+# 🔐 GRC Risk Assessment – Fintech Environment
 
 ## 📌 Overview
-This project presents a full Governance, Risk, and Compliance (GRC) assessment for a simulated fintech organization handling sensitive customer and PCI data in a cloud-based environment.
+This project presents a full Governance, Risk, and Compliance (GRC) assessment for a simulated fintech organization handling sensitive customer and PCI data in a cloud-based cloud environment.
 
-## 🎯 Scope
-- Customer Data
-- PCI Database
-- Cloud Infrastructure
-- Web Application
-- Email Systems
-- Backup Systems
+## 🎯 Objectives
+- Identify and assess cybersecurity risks
+- Evaluate existing controls
+- Perform gap analysis
+- Recommend remediation actions aligned with industry frameworks
 
-## 🧠 What I Did
-- Conducted risk assessment using likelihood and impact analysis
-- Identified threats and vulnerabilities across key assets
-- Designed preventive, detective, and corrective controls
-- Mapped controls to NIST Cybersecurity Framework
-- Performed gap analysis with remediation recommendations
-- Developed executive summary for leadership
+## 🧠 Methodology
+- Risk assessment using Likelihood × Impact
+- Asset-based analysis (data, cloud, applications)
+- Control classification:
+  - Preventive
+  - Detective
+  - Corrective
+- Gap analysis based on control effectiveness
 
-## 🔍 Key Findings
-- Lack of full MFA enforcement
-- Weak identity and access management (IAM)
-- Insufficient monitoring and alerting
-- Exposure to phishing and BEC attacks
-- Backup systems vulnerable to ransomware
+## 🔍 Key Risks Identified
+- Data Breach (Customer & PCI Data)
+- Cloud Misconfiguration
+- Phishing & Business Email Compromise (BEC)
+- Weak Identity and Access Management (IAM)
+- Ransomware exposure
 
-## 🛠️ Tools & Frameworks
-- NIST Cybersecurity Framework (CSF)
-- Risk Assessment Methodology
-- GRC Best Practices
+## 🛡️ Controls Implemented
+- MFA & Encryption
+- IAM Hardening (Least Privilege)
+- SIEM Monitoring & Alerting
+- Web Application Firewall (WAF)
+- Security Awareness Training
+- Immutable Backups
 
-## 📊 Project Files
+## ⚠️ Gap Analysis Highlights
+- Missing SIEM alerting capabilities
+- Lack of RBAC implementation
+- Weak cloud monitoring
+- Partial MFA enforcement
+- Insufficient logging and detection
+
+## 🚀 Recommendations
+- Enforce MFA across all users
+- Implement SIEM with real-time alerting
+- Strengthen IAM controls (RBAC)
+- Enable cloud monitoring (CloudTrail)
+- Secure backups with immutability
+
+## 📊 Project Artifacts
 - Risk Assessment (Excel)
 - Gap Analysis (Excel)
 - Control Mapping (Excel)
-- Executive Summary (PDF)
+- Executive Report (PDF)
 
-## 🚀 Skills Demonstrated
-- Risk Management
+## 💼 Skills Demonstrated
+- Risk Assessment & Analysis
 - Control Design & Evaluation
 - Gap Analysis
 - Security Governance
-- Cybersecurity Framework Alignment
+- NIST Cybersecurity Framework alignment
 
 ## 📈 Outcome
-This project demonstrates hands-on experience performing GRC functions aligned with industry standards and real-world enterprise environments.
+This project demonstrates practical GRC experience aligned with real-world enterprise environments and industry best practices.
+
+## 💡 Business Impact
+This assessment identifies critical security gaps that could lead to regulatory non-compliance, financial loss, and data breaches, and provides prioritized remediation actions.
+
+## 🔗 Author
+Rolando Huayamave  
+Aspiring GRC Analyst | Cybersecurity Professional
