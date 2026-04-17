@@ -69,3 +69,6 @@ This assessment identifies critical security gaps that could lead to regulatory 
 ## 🔗 Author
 Rolando Huayamave  
 Aspiring GRC Analyst | Cybersecurity Professional
+
+## 📂 Project Files
+See the /docs folder for full documentation.
