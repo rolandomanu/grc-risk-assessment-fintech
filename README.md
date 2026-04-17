@@ -4,7 +4,11 @@
 ## 📂 Project Files
 See the /docs folder for full documentation.
 
+## 💡 Business Impact
+Identified critical security gaps that could lead to data breaches, regulatory non-compliance, and financial loss if not remediated.
+
 # 🔐 GRC Risk Assessment – Fintech Environment
+> End-to-end risk assessment project including control design, gap analysis, and remediation planning aligned with industry standards.
 
 ## 📌 Overview
 This project presents a full Governance, Risk, and Compliance (GRC) assessment for a simulated fintech organization handling sensitive customer and PCI data in a cloud-based cloud environment.
@@ -70,9 +74,6 @@ This project presents a full Governance, Risk, and Compliance (GRC) assessment f
 
 ## 📈 Outcome
 This project demonstrates practical GRC experience aligned with real-world enterprise environments and industry best practices.
-
-## 💡 Business Impact
-This assessment identifies critical gaps that could lead to data breaches, regulatory penalties, and operational disruption.
 
 ## 🔗 Author
 Rolando Huayamave  
