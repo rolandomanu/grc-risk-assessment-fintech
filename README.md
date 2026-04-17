@@ -64,11 +64,15 @@ This project presents a full Governance, Risk, and Compliance (GRC) assessment f
 This project demonstrates practical GRC experience aligned with real-world enterprise environments and industry best practices.
 
 ## 💡 Business Impact
-This assessment identifies critical security gaps that could lead to regulatory non-compliance, financial loss, and data breaches, and provides prioritized remediation actions.
+This assessment identifies critical gaps that could lead to data breaches, regulatory penalties, and operational disruption.
 
 ## 🔗 Author
 Rolando Huayamave  
-Aspiring GRC Analyst | Cybersecurity Professional
+GRC Analyst (Project Experience)
 
 ## 📂 Project Files
 See the /docs folder for full documentation.
+
+## 📄 Full Report
+Download the full GRC assessment report here:  
+[View PDF](docs/GRC_Report.pdf)
