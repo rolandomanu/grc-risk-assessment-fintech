@@ -26,11 +26,14 @@ This project demonstrates an enterprise-level Governance, Risk, and Compliance (
 ## 📁 Repository Structure
 
 ```text
-├── policies/
-│   ├── Access-Control-Policy-EN.pdf       # English RBAC & Access Governance Policy
-│   └── Politica-Control-de-Acceso-ES.pdf  # Spanish Version
-├── risk-assessment/
-│   └── Fintech-Risk-Register.xlsx          # Detailed Likelihood/Impact Scoring Matrix
+├── docs/
+│   ├── policies/
+│   │   ├── access_control_en.md
+│   │   ├── access_control_es.md
+│   │   ├── vulnerability_mgmt_en.md
+│   │   └── vulnerability_mgmt_es.md
+│   ├── GRC Risk Assessment Report – Fintech Environment.pdf
+│   └── GRC Risk Assessment.xlsx
 └── README.md
 
 ## 🛡️ Key Takeaways & Quality Control (QC)
